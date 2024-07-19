@@ -1,5 +1,6 @@
 # CRM & Sales Pipeline Analysis
 
+![](crm_hero_new.jpg)
 
 ## Introduction
 This project is part of the FP20 Analytics Challenge 17, focusing on CRM and sales pipeline data analysis to derive actionable insights. The challenge involves examining sales performance, conversion rates, sales pipeline health, and forecasting future trends using advanced data analytics techniques.
@@ -98,7 +99,7 @@ The analysis and visualization were done using Power BI to create an interactive
 
 You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/f2a84cd464a908a144272b7eb158b079?challenge=fp20-analytics-april-2024)
 
-![](CRMAnalysis.png)
+
 
 ## Conclusion
 The analysis provided several key insights:
