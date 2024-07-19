@@ -99,7 +99,7 @@ The analysis and visualization were done using Power BI to create an interactive
 
 You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/f2a84cd464a908a144272b7eb158b079?challenge=fp20-analytics-april-2024)
 
-
+![](CRMAnalysisNew.png)
 
 ## Conclusion
 The analysis provided several key insights:
