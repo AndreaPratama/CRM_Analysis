@@ -97,7 +97,7 @@ The analysis and visualization were done using Power BI to create an interactive
 - Overview
 - Sales Pipeline & Forecast
 
-You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/f2a84cd464a908a144272b7eb158b079?challenge=fp20-analytics-april-2024)
+You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/5204e2eca27ba518bba8b95278284ef1?challenge=fp20-analytics-july-2024)
 
 ![](CRMAnalysisNew.png)
 
