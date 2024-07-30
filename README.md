@@ -7,18 +7,18 @@ This project is part of the FP20 Analytics Challenge 17, focusing on CRM and sal
 
 ## Problem Statement
 The primary objective of this project is to address the following business questions:
-1. Who are the top-performing sales agents?
-2. What are the conversion rates from leads to paying customers in different countries?
-3. How does sales performance vary across different industries?
-4. How healthy is the sales pipeline month-over-month, considering the number of leads at each stage of the sales funnel?
-5. What is the average time taken by sales agents to respond to new leads, and how does it impact conversion rates?
-6. What are the trends in average deal values? Are there noticeable fluctuations?
-7. Based on current pipeline data and historical trends, forecast potential income for the next few months.
-8. Does the size of the organization affect the sales cycle duration and deal value?
-9. How effective are sales strategies for different products offered (e.g., SAAS vs. other product types)?
-10. Assess the time taken from lead acquisition to deal closure. Which factors influence the duration of the sales cycle?
-11. Investigate the common characteristics of lost opportunities and how these reasons vary by industry or country.
-12. How accurate are the sales forecasts in terms of expected versus actual close dates?
+- Who are the top-performing sales agents?
+- What are the conversion rates from leads to paying customers in different countries?
+- How does sales performance vary across different industries?
+- How healthy is the sales pipeline month-over-month, considering the number of leads at each stage of the sales funnel?
+- What is the average time taken by sales agents to respond to new leads, and how does it impact conversion rates?
+- What are the trends in average deal values? Are there noticeable fluctuations?
+- Based on current pipeline data and historical trends, forecast potential income for the next few months.
+- Does the size of the organization affect the sales cycle duration and deal value?
+- How effective are sales strategies for different products offered (e.g., SAAS vs. other product types)?
+- Assess the time taken from lead acquisition to deal closure. Which factors influence the duration of the sales cycle?
+- Investigate the common characteristics of lost opportunities and how these reasons vary by industry or country.
+- How accurate are the sales forecasts in terms of expected versus actual close dates?
 
 ## Skills Demonstrated
 - Data Cleaning and Transformation
